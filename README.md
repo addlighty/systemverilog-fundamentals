@@ -1,1 +1,4 @@
-# systemverilog-fundamentals
+SystemVerilog Fundamentals
+=================
+
+## Table of Contents
